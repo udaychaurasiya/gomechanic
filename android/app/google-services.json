@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "595649641165",
+    "project_id": "gomechainic",
+    "storage_bucket": "gomechainic.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:595649641165:android:6810d4fb47a96effc54784",
+        "android_client_info": {
+          "package_name": "com.example.gomechanic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "595649641165-86bcmiuv504fnvkifn5tujft8ks5mqcr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gomechanic",
+            "certificate_hash": "8b2a400510ffb4c788e27a5e36031f7474ef33f4"
+          }
+        },
+        {
+          "client_id": "595649641165-3p278igpeir8fa6feuscrtvkc23qs5hk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVxfJ3553hfPRF8h1-vKan-jPHON1vCug"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "595649641165-3p278igpeir8fa6feuscrtvkc23qs5hk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
